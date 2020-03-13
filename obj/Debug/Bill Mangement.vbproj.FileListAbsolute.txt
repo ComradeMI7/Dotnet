@@ -1,0 +1,14 @@
+C:\Users\sachin.badkar\source\repos\Bill Mangement\bin\Debug\Bill Mangement.exe.config
+C:\Users\sachin.badkar\source\repos\Bill Mangement\bin\Debug\Bill Mangement.exe
+C:\Users\sachin.badkar\source\repos\Bill Mangement\bin\Debug\Bill Mangement.pdb
+C:\Users\sachin.badkar\source\repos\Bill Mangement\bin\Debug\Bill Mangement.xml
+C:\Users\sachin.badkar\source\repos\Bill Mangement\obj\Debug\Bill Mangement.vbprojAssemblyReference.cache
+C:\Users\sachin.badkar\source\repos\Bill Mangement\obj\Debug\Bill_Mangement.Form1.resources
+C:\Users\sachin.badkar\source\repos\Bill Mangement\obj\Debug\Bill_Mangement.Resources.resources
+C:\Users\sachin.badkar\source\repos\Bill Mangement\obj\Debug\Bill Mangement.vbproj.GenerateResource.cache
+C:\Users\sachin.badkar\source\repos\Bill Mangement\obj\Debug\Bill Mangement.exe
+C:\Users\sachin.badkar\source\repos\Bill Mangement\obj\Debug\Bill Mangement.xml
+C:\Users\sachin.badkar\source\repos\Bill Mangement\obj\Debug\Bill Mangement.pdb
+C:\Users\sachin.badkar\source\repos\Bill Mangement\obj\Debug\Bill Mangement.vbproj.ResolveComReference.cache
+C:\Users\sachin.badkar\source\repos\Bill Mangement\obj\Debug\Bill_Mangement.Form2.resources
+C:\Users\sachin.badkar\source\repos\Bill Mangement\obj\Debug\Bill_Mangement.Form3.resources
